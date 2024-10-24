@@ -22,4 +22,3 @@ class Student:
         print(f"năm sinh : {self.namsinh}")
         print(f"Quên quán : {self.quequan}")
         print(f"Chuyên ngành : {self.chuyennganh}")
-        
